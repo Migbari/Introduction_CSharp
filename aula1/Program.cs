@@ -58,7 +58,8 @@ namespace aula1
 
             //Console.WriteLine($"Sua média é {média} ");
             Console.WriteLine("Sua média é:" + media);
-            
+
+           
 
         }
     }
