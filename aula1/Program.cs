@@ -47,6 +47,19 @@ namespace aula1
 
             // Interpolação/ Unir variável com txt
             Console.WriteLine($"Sua primeira nota é {num3} ");
+
+            Console.WriteLine("Digite sua segunda nota: ");
+            num4 = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Digite sua terceira nota: ");
+            num5 = int.Parse(Console.ReadLine());
+
+            media = (num3+num3+num5)/3;
+
+            //Console.WriteLine($"Sua média é {média} ");
+            Console.WriteLine("Sua média é:" + media);
+            
+
         }
     }
 }
