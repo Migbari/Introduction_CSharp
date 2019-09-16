@@ -30,7 +30,7 @@ namespace aula2
             else {
                 Console.WriteLine($"Média: {media} Aluno reprovado!");
                 }
-
+        
         }
     }
 }
