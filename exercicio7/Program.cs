@@ -6,23 +6,23 @@ namespace exercicio7
     {
         static void Main(string[] args)
         {
-            //ex 6
-            float passageiros;
+            //ex 7
+            int passageiros;
             float passagem;
             float total;
 
-            //Exercício 6
+            //Exercício 7
             Console.WriteLine("Quantidade de passageiros: ");
             passageiros = int.Parse(Console.ReadLine());        
 
             Console.WriteLine("Valor da passagem: ");
             passagem = float.Parse(Console.ReadLine());
 
-            total = passageiros*passagem;
+            total = passageiros*4.30f;
 
             Console.WriteLine("O total de passageiros é de:"+passageiros);
             Console.WriteLine("Total de passagem: "+total);  // end
-            
+
         }
     }
 }
