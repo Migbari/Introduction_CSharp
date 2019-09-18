@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fic\\desktop\\SENAI-Backend-CSharp\\lista_exercicio_2.1\\exercicio4\\exercicio4.csproj": {}
+    "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\lista_exercicio_2.1\\exercicio4\\exercicio4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fic\\desktop\\SENAI-Backend-CSharp\\lista_exercicio_2.1\\exercicio4\\exercicio4.csproj": {
+    "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\lista_exercicio_2.1\\exercicio4\\exercicio4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fic\\desktop\\SENAI-Backend-CSharp\\lista_exercicio_2.1\\exercicio4\\exercicio4.csproj",
+        "projectUniqueName": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\lista_exercicio_2.1\\exercicio4\\exercicio4.csproj",
         "projectName": "exercicio4",
-        "projectPath": "C:\\Users\\fic\\desktop\\SENAI-Backend-CSharp\\lista_exercicio_2.1\\exercicio4\\exercicio4.csproj",
+        "projectPath": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\lista_exercicio_2.1\\exercicio4\\exercicio4.csproj",
         "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fic\\desktop\\SENAI-Backend-CSharp\\lista_exercicio_2.1\\exercicio4\\obj\\",
+        "outputPath": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\lista_exercicio_2.1\\exercicio4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -6,24 +6,24 @@ namespace exercicio4
     {
         static void Main(string[] args)
         {
-            
+
+        // Ao clicar no botão encomentar, indicamos a ação para logado ou não logado.     
         bool login = false;
         int entrada; 
         string retorno;
 
         Console.Write("opção 1, opção 2: ");
         entrada = int.Parse(Console.ReadLine() );
-        // Como atribuímos anteriormente, mudamos o estado da variável para verdadeira 
-        // caso entre nessa condição. 
+      
 
         if(entrada == 1){
             login = true;
         }
         if(login == true){
-            retorno = "Usuário logado!";
+            retorno = "Página encomendar!";
         }
         else{
-            retorno = "Usuário não logado";
+            retorno = "Página Cadastro/Login";
         }
         Console.WriteLine(retorno);
             

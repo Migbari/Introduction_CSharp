@@ -32,7 +32,7 @@ namespace exercicio3
             Console.WriteLine(" Cliente / Insira sua senha");
             senha = Console.ReadLine();
 
-            Console.WriteLine(" Cliente / Insira seu cpf/cpnj");
+            Console.WriteLine(" Cliente / Insira seu cpf");
             cpf = int.Parse (Console.ReadLine()); 
             } 
                         
