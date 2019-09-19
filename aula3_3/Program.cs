@@ -6,23 +6,24 @@ namespace aula3_3
     {
         static void Main(string[] args)
         {
-            int cont = 0;
-            int acumuladora = 0;
+            
+            int acumuladora = 0; // Inicie o primeiro valor do acumulador com 0. Acumulador será usado para somar dos múltiplos de 3 da variável número.
             int numero;
 
             do { // Faça 
-                Console.WriteLine ("Digite um número"); // Leia um número - Variável recebe número inserido
-                numero = int.Parse (Console.ReadLine ());
+                Console.WriteLine ("Digite um número"); // Escreva (Mensagem)
+                numero = int.Parse (Console.ReadLine ());  // Leia um número - Variável recebe número inserido
                 
-                if (numero % 3 == 0){
+                if (numero % 3 == 0){ // Se (numero dividido por 3 = resto = 0)
                 acumuladora = acumuladora + numero; // Recebe numero + valor dentro de acumuladora que será número anterior
-                cont = cont + 1; // Os giros
+               
                 } 
 
-            } while (numero <= 100); // Enquanto for diferente de 0
+            } while (numero <= 100); // Enquanto menor ou igual a 100 execute condição acima.
           
           
-            Console.WriteLine("A soma dos múltiplos de 3 são:"+acumuladora); // Escreve valor acumulado 
+            Console.WriteLine("A soma dos múltiplos de 3 são:"+acumuladora); // Escreve valor acumulado dos múltiplos de 3
+        
         }
     }
 }

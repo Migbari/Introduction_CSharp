@@ -10,7 +10,7 @@ namespace aula3_2
 
             double acumuladora = 0; // Será variável acumuladora 
             double nota = 0; // Receberá o valor - input
-            int cont = 0; // Verificar a quantidade de vezes que nota foi digitado
+            int cont = 0; // iniciou  o contador com 0.
             string sair = ""; // 
 
             while (sair != "sim") { // Enquanto (sair diferente de SIM) // Condição para continuar
@@ -18,7 +18,8 @@ namespace aula3_2
                 nota = double.Parse (Console.ReadLine ());
 
                 acumuladora = acumuladora + nota; // Ou acumuladora += nota // Para acumular nota defino uma variável 
-                cont++; // 0u cont = cont + 1 para contar // Da mais uma volta e trás o que pede na condição.
+                cont++; // 0u cont = cont + 1 // Terá a quantidade de giros. 
+                // 5 numeros inseridos = 5 giros. 14 numeros inseridos = 14 giros.
 
                 Console.Write ("Deseja sair da aplicação? sim/não "); // Leia sair para fechar aplicação
                 sair = Console.ReadLine ().ToLower (); // Tolower - identificar letras minúsculo e maiúsculo 
