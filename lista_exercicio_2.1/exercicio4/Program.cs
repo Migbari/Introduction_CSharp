@@ -26,7 +26,7 @@ namespace exercicio4
             retorno = "Página Cadastro/Login";
         }
         Console.WriteLine(retorno);
-            
+        
         }
     }
 }
