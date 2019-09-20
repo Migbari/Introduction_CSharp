@@ -16,7 +16,6 @@ namespace aula3_3
                 
                 if (numero % 3 == 0){ // Se (numero dividido por 3 = resto = 0)
                 acumuladora = acumuladora + numero; // Recebe numero + valor dentro de acumuladora que será número anterior
-               
                 } 
 
             } while (numero <= 100); // Enquanto menor ou igual a 100 execute condição acima.

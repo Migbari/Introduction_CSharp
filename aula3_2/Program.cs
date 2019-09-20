@@ -25,7 +25,7 @@ namespace aula3_2
                 sair = Console.ReadLine ().ToLower (); // Tolower - identificar letras minúsculo e maiúsculo 
             }
 
-            Console.WriteLine ("Média das nontas: " + (acumuladora / cont)); // Escreva acumuladora dividido por cont.
+            Console.WriteLine ("Média das notas: " + (acumuladora / cont)); // Escreva acumuladora dividido por cont.
             // Cont possui a quantidadde de voltas dadas até que SAIR for digitado   
         }
     }

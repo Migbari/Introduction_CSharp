@@ -5,12 +5,12 @@ namespace exercicio1 {
         static void Main (string[] args) {
 
 
-            for (int cont = 1; cont <= 100; cont++) {
-               
-                //EXPRESSÃO CONTADOR AO CUBO (3) 
+            for (int cont = 1; cont <= 100; cont++){
+                    //EXPRESSÃO CONTADOR AO CUBO (3) 
                     Console.WriteLine (Math.Pow(cont,3) );
             }
 
+            
 
         }
     }
