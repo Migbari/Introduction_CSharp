@@ -14,7 +14,7 @@ namespace aula4_2 {
             }
 
             for (int i = 0; i <= 9; i++) {  // transfere de um para outro / de serie1 para serie2
-                series2[i] = series1[i];
+               series2[i] = series1[i];
             }
 
             for (int i = 0; i <= 9; i++) {
