@@ -25,7 +25,7 @@ namespace aula6_2
             string digito_v1 = ""; // vetor para primeiro digito veriicador
             string digito_v2 = ""; // vetor para segundo digito verificador
        
-            cpfUsuario = cpfUsuario.Replace(" ","");  // Para tratar o ""/ não considera
+            cpfUsuario = cpfUsuario.Replace(" ","");  // Para tratar o " "/ não considera
             cpfUsuario = cpfUsuario.Replace("-","");  // Para tratar o - / não considera
             cpfUsuario = cpfUsuario.Replace(".","");  // Para tratar o . / não considera
             
@@ -50,19 +50,17 @@ namespace aula6_2
                 resultado = true;
             }
 
-
-
             int[] v2 = {11, 10, 9, 8, 7, 6, 5, 4, 3, 2};
             resto = 0;
             calculo = 0;
 
-            cpfCalculo = cpfCalculo+calculo;    
+            cpfCalculo = cpfCalculo+calculo; // contador acumulativo
             calculo = 0;   
 
              for(int i = 0; i <= 9; i++){
                 calculo += int.Parse(cpfCalculo[i].ToString()) * v2[i];
             } 
-
+            
             resto = calculo % 11;
             calculo = 11 - resto;
 
