@@ -6,7 +6,7 @@ namespace exercicio1
     {
         static void Main(string[] args)
         {
-            
+            //Exercicio cálculo do CNPJ/FAZER
         }
     }
 }
