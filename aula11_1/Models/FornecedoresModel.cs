@@ -5,5 +5,6 @@ namespace aula11_1.Models
         public int IdFornecedor {get; set;}
         public string NomeFornecedor { get; set; } // atalho = prop
         
+        
     }
 }
