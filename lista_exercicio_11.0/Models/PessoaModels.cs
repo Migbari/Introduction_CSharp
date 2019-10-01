@@ -9,5 +9,4 @@ namespace lista_exercicio_11_Models{
 
         public double Altura {get; set;} 
     }
-
 }

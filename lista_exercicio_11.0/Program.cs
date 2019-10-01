@@ -11,8 +11,8 @@ namespace lista_exercicio_11
 
            pessoa1.CadastrarPessoa();
            pessoa1.ExibirPessoa();
-        }
-        
+           pessoa1.CalcularImc();
 
+        }   
     }
 }

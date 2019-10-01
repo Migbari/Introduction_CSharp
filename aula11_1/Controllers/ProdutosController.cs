@@ -26,7 +26,6 @@ namespace aula11_1.Controllers {
             }
 
         }
-
         public void ExibirProduto () { // Criando método ExibirProduto com FunçãoExibirPrduto
             // Como o método CadastrarProduto irá possuir os dados, este novo método apenas irá exibir na tela
             System.Console.WriteLine (produto.IdProduto);
@@ -45,7 +44,7 @@ namespace aula11_1.Controllers {
             txt.WriteLine (ex); // Mostrar o erro
             txt.WriteLine (); // Apenas para quebra da linha
 
-            txt.Close (); // Fecha arquivo
+            txt.Close (); // Salva automaticamente ao fechar
         }
 
     }

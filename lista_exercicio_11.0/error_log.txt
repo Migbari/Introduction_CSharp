@@ -1,0 +1,21 @@
+terça-feira, 1 de outubro de 2019
+01/10/2019
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(ReadOnlySpan`1 value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at lista_exercicio_11_Controllers.PessoaController.CalcularImc() in C:\Users\fic\Desktop\SENAI-Backend-CSharp\lista_exercicio_11.0\Controllers\PessoaController.cs:line 30
+
+terça-feira, 1 de outubro de 2019
+01/10/2019
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(ReadOnlySpan`1 value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at lista_exercicio_11_Controllers.PessoaController.CalcularImc() in C:\Users\fic\Desktop\SENAI-Backend-CSharp\lista_exercicio_11.0\Controllers\PessoaController.cs:line 30
+
+terça-feira, 1 de outubro de 2019
+01/10/2019
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(ReadOnlySpan`1 value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at lista_exercicio_11_Controllers.PessoaController.CalcularImc() in C:\Users\fic\Desktop\SENAI-Backend-CSharp\lista_exercicio_11.0\Controllers\PessoaController.cs:line 30
+
