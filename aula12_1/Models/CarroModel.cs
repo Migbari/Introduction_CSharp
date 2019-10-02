@@ -7,7 +7,6 @@ namespace aula12_1.Models
         public string Cor {get; set;}
         public string Placa {get; set;}
         public bool Ligado {get; set;}
-
         public MotorModel Motor {get; set;}
     }
 }
