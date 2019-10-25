@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace aula8_1 {
+namespace aula8_1{
     class Program {
         static void Main (string[] args) {
             int numero;
