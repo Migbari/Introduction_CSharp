@@ -10,7 +10,7 @@ namespace lista_exercicio_11_Controllers {
         public void CadastrarPessoa () {
 
             try
-            {   // Para tratar erro caso usuário digite erroneamente outro tipo de caracter
+            {  // Para tratar erro caso usuário digite erroneamente outro tipo de caracter
             System.Console.WriteLine ("Digite o nome da pessoa: ");
             pessoa.Nome = Console.ReadLine ();
 
