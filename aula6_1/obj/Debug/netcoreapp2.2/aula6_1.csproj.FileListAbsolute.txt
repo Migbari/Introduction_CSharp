@@ -4,7 +4,6 @@ C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula6_1\bin\Debug\netcoreapp2.2\aula6_
 C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula6_1\bin\Debug\netcoreapp2.2\aula6_1.dll
 C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula6_1\bin\Debug\netcoreapp2.2\aula6_1.pdb
 C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula6_1\obj\Debug\netcoreapp2.2\aula6_1.csprojAssemblyReference.cache
-C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula6_1\obj\Debug\netcoreapp2.2\aula6_1.csproj.CoreCompileInputs.cache
 C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula6_1\obj\Debug\netcoreapp2.2\aula6_1.AssemblyInfoInputs.cache
 C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula6_1\obj\Debug\netcoreapp2.2\aula6_1.AssemblyInfo.cs
 C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula6_1\obj\Debug\netcoreapp2.2\aula6_1.dll
