@@ -1,0 +1,8 @@
+segunda-feira, 30 de setembro de 2019
+30/09/2019
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(ReadOnlySpan`1 str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(ReadOnlySpan`1 s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at aula11_1.Controllers.ProdutosController.CadastrarProduto() in C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula11_1\Controllers\ProdutosController.cs:line 13
+

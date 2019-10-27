@@ -58,7 +58,7 @@ namespace aula6_1 {
             Console.WriteLine (DateTime.Now.Hour.ToString ());
         }
         /// <summary>
-        /// Função que calcula a mpedia de um vetor
+        /// Função que calcula a média de um vetor
         /// </summary>
         /// <param name="valores">Vetor com valores</param>
         /// <returns>Média dos valores</returns>

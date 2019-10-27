@@ -14,7 +14,6 @@ namespace exercicio4
 
         Console.Write("opção 1, opção 2: ");
         entrada = int.Parse(Console.ReadLine() );
-      
 
         if(entrada == 1){
             login = true;
